@@ -21,3 +21,12 @@ thumbnail => "pip install easy-thumbnails"
 description: to display optimized images
 
 redis => firs, install Redis from the website => "https://redis.io/download", Then install => "pip install redis"
+
+
+
+
+
+
+
+Note: This is from Django3 by example book.
+It's a good book to learn alot from it
